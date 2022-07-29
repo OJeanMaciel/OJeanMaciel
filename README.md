@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como analista de vendas
 - 🌱 Estudando JavaScript
-- 📫 Me siga no GitHub e no Linkdlin
+- 📫 Me siga no GitHub e no Linkedin
 
 
 <div align="center">
