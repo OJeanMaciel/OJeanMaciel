@@ -1,6 +1,6 @@
 ## Olá! Me chamo Jean Maciel
 
-- 🔭 Hoje trabalho como analista de vendas
+- 🔭 Hoje trabalho como desenvolvedor Front-End na WS Work
 - 🌱 Estudando JavaScript
 - 📫 Me siga no GitHub e no Linkedin
 
