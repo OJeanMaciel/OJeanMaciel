@@ -1,8 +1,8 @@
-## Olá! Me chamo Jean Maciel
+## Hello! My name is Jean Maciel
 
-- 🔭 Hoje trabalho como desenvolvedor Front-End na WS Work
-- 🌱 Estudando JavaScript
-- 📫 Me siga no GitHub e no Linkedin
+- 🔭 Today I work as a Front-End developer at WS Work
+- 🌱 Studying JavaScript, Angular, React
+- 📫 Follow me on GitHub and Linkedin
 
 
 <div align="center">
