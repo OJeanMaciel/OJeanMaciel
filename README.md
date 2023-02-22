@@ -27,5 +27,9 @@
   </div>
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=OJeanMaciel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-![snake gif](https://github.com/OJeanMaciel/OJeanMaciel/blob/output/github-contribution-grid-snake.gif)
+    
+  <div align="center"> 
+
+  ![Snake animation](https://github.com/OJeanMaciel/OJeanMaciel/blob/output/github-contribution-grid-snake.svg)
+
+</div>
