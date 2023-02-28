@@ -1,6 +1,6 @@
 ## Hello! My name is Jean Maciel
 
-- 🔭 Today I work as a Front-End developer at WS Work
+- 🔭 Today I work as a Full Stack developer at WS Work
 - 🌱 Studying JavaScript, Angular, React
 - 📫 Follow me on GitHub and Linkedin
 
