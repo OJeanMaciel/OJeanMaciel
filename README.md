@@ -5,10 +5,10 @@
 - 📫 Follow me on GitHub and Linkedin
 
 <div align="center">
-  <h3><a href="https://github.com/MarcosAndre28">Profile visitors</a></h3>
+  <h3><a href="https://github.com/OJeanMaciel">Profile visitors</a></h3>
   <img src="https://profile-counter.glitch.me/{OJeanMaciel}/count.svg" alt="rudiantoni :: Visitor's Count" />
   <br />
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rudiantoni?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/OJeanMaciel?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </div>
 
 <div align="center">
