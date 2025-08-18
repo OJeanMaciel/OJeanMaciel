@@ -47,7 +47,9 @@
 </div>
   
   <div align="center"> 
-  ![Snake animation](https://github.com/OJeanMaciel/OJeanMaciel/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/OJeanMaciel/OJeanMaciel/blob/output/github-contribution-grid-snake2.svg)
+
       
   ![Snake dark](https://github.com/OJeanMaciel/OJeanMaciel/blob/output/github-contribution-grid-snake-dark.svg)
 
