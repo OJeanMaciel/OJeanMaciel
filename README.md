@@ -48,6 +48,6 @@
   
   <div align="center"> 
 
-  ![snake animation](https://github.com/OJeanMaciel/OJeanMaciel/blob/output/github-contribution-grid-snake2.svg)
+  ![Snake animation](https://github.com/OJeanMaciel/OJeanMaciel/blob/output/github-contribution-grid-snake.svg)
   
 </div>
